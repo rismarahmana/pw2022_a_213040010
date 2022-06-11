@@ -1,0 +1,15 @@
+*{margin:0;padding:0;color: black;}
+nav{
+    font-family: Apercu,Gill Sans MT,Gill Sans,Arial,sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: black;    
+    color: white;        
+}
+nav a, .navbar-nav a{
+    color: white;        
+}
+.text_banner{
+    background-color: black;
+    color: white;
+}
